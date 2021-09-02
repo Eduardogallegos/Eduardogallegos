@@ -8,8 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardogallegos&layout=compact&exclude_repo=A01745776-Graficas-Computacionales&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardogallegos&repo=sportTechnic)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardogallegos&repo=sportTechnic)](https://github.com/Eduardogallegos/sportTechnic)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardogallegos&repo=sportTechniciOS)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardogallegos&repo=sportTechniciOS)](https://github.com/Eduardogallegos/sportTechniciOS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardogallegos&repo=kiwi-flight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eduardogallegos&repo=kiwi-flight)](https://github.com/Eduardogallegos/kiwi-flight)
